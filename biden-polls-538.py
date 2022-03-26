@@ -58,19 +58,19 @@ spread = latest_df.iloc[0, 10].round(1)
 
 email = f"Yes! We've scraped President Biden's latest polling average from 538. As of {date}, his approval rating is {approve}%. His dissapproval rating is {disapprove}%. That's a spread of {spread} percentage points. Get the latest data here: https://github.com/stiles/biden-polls/blob/main/data/processed/biden_approval_trend_all_polls.csv"
     
-# get email and password from environment variables
-EMAIL_ADDRESS = os.environ.get('EMAIL_ADDRESS')
-EMAIL_PASSWORD = os.environ.get('EMAIL_PASSWORD')
-EMAIL_RECIPIENT = os.environ.get('EMAIL_RECIPIENT')
+# # get email and password from environment variables
+# EMAIL_ADDRESS = os.environ.get('EMAIL_ADDRESS')
+# EMAIL_PASSWORD = os.environ.get('EMAIL_PASSWORD')
+# EMAIL_RECIPIENT = os.environ.get('EMAIL_RECIPIENT')
     
-# set up email content
-msg = EmailMessage()
-msg['Subject'] = 'Github Actions: New Biden polling results from 538!'
-msg['From'] = EMAIL_ADDRESS
-msg['To'] = EMAIL_RECIPIENT
-msg.set_content(f'{email}')
+# # set up email content
+# msg = EmailMessage()
+# msg['Subject'] = 'Github Actions: New Biden polling results from 538!'
+# msg['From'] = EMAIL_ADDRESS
+# msg['To'] = EMAIL_RECIPIENT
+# msg.set_content(f'{email}')
     
-# send email
-with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
-    smtp.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
-    smtp.send_message(msg)
+# # send email
+# with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
+#     smtp.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
+#     smtp.send_message(msg)
