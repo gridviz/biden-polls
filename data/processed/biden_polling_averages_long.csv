@@ -170,7 +170,7 @@ date,value,variable
 2021-04-29,approve,53.1
 2021-04-29,approve,53.1
 2021-04-28,approve,53.1
-2021-04-27,approve,41.1
+2021-04-27,approve,41.4
 2021-04-27,approve,53.1
 2021-04-26,approve,53.1
 2021-04-25,approve,53.1
@@ -386,7 +386,7 @@ date,value,variable
 2021-04-29,disapprove,42.0
 2021-04-29,disapprove,42.0
 2021-04-28,disapprove,42.1
-2021-04-27,disapprove,54.0
+2021-04-27,disapprove,53.4
 2021-04-27,disapprove,41.8
 2021-04-26,disapprove,41.5
 2021-04-25,disapprove,41.5
@@ -602,7 +602,7 @@ date,value,variable
 2021-04-29,spread,11.1
 2021-04-29,spread,11.1
 2021-04-28,spread,11.0
-2021-04-27,spread,-12.9
+2021-04-27,spread,-12.0
 2021-04-27,spread,11.3
 2021-04-26,spread,11.6
 2021-04-25,spread,11.6
