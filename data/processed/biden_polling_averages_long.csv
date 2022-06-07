@@ -149,10 +149,10 @@ date,value,variable
 2021-06-11,approve,53.8
 2021-06-08,approve,52.7
 2021-06-07,approve,53.0
+2021-06-05,approve,40.7
 2021-06-05,approve,53.0
 2021-06-04,approve,53.0
 2021-06-03,approve,53.3
-2021-06-02,approve,40.6
 2021-06-01,approve,53.9
 2021-05-31,approve,54.0
 2021-05-22,approve,53.5
@@ -162,8 +162,8 @@ date,value,variable
 2021-05-15,approve,54.2
 2021-05-14,approve,54.3
 2021-05-13,approve,54.0
-2021-05-11,approve,53.9
 2021-05-11,approve,54.0
+2021-05-11,approve,53.9
 2021-05-07,approve,54.1
 2021-05-06,approve,54.0
 2021-05-04,approve,53.8
@@ -365,10 +365,10 @@ date,value,variable
 2021-06-11,disapprove,41.1
 2021-06-08,disapprove,41.4
 2021-06-07,disapprove,41.4
+2021-06-05,disapprove,54.0
 2021-06-05,disapprove,41.4
 2021-06-04,disapprove,41.4
 2021-06-03,disapprove,42.4
-2021-06-02,disapprove,54.1
 2021-06-01,disapprove,41.9
 2021-05-31,disapprove,41.7
 2021-05-22,disapprove,42.3
@@ -378,8 +378,8 @@ date,value,variable
 2021-05-15,disapprove,41.8
 2021-05-14,disapprove,41.7
 2021-05-13,disapprove,41.8
-2021-05-11,disapprove,41.8
 2021-05-11,disapprove,41.7
+2021-05-11,disapprove,41.8
 2021-05-07,disapprove,41.6
 2021-05-06,disapprove,41.6
 2021-05-04,disapprove,42.2
@@ -581,10 +581,10 @@ date,value,variable
 2021-06-11,spread,12.7
 2021-06-08,spread,11.3
 2021-06-07,spread,11.6
+2021-06-05,spread,-13.3
 2021-06-05,spread,11.6
 2021-06-04,spread,11.6
 2021-06-03,spread,10.9
-2021-06-02,spread,-13.5
 2021-06-01,spread,12.0
 2021-05-31,spread,12.3
 2021-05-22,spread,11.2
@@ -594,8 +594,8 @@ date,value,variable
 2021-05-15,spread,12.4
 2021-05-14,spread,12.6
 2021-05-13,spread,12.2
-2021-05-11,spread,12.1
 2021-05-11,spread,12.3
+2021-05-11,spread,12.1
 2021-05-07,spread,12.5
 2021-05-06,spread,12.4
 2021-05-04,spread,11.6
