@@ -128,7 +128,7 @@ date,value,variable
 2021-07-24,approve,52.5
 2021-07-23,approve,52.5
 2021-07-20,approve,52.4
-2021-07-18,approve,38.2
+2021-07-19,approve,37.7
 2021-07-16,approve,52.0
 2021-07-14,approve,52.0
 2021-07-13,approve,52.4
@@ -344,7 +344,7 @@ date,value,variable
 2021-07-24,disapprove,43.5
 2021-07-23,disapprove,42.5
 2021-07-20,disapprove,43.1
-2021-07-18,disapprove,56.8
+2021-07-19,disapprove,57.1
 2021-07-16,disapprove,43.4
 2021-07-14,disapprove,43.4
 2021-07-13,disapprove,43.0
@@ -560,7 +560,7 @@ date,value,variable
 2021-07-24,spread,9.0
 2021-07-23,spread,10.0
 2021-07-20,spread,9.3
-2021-07-18,spread,-18.6
+2021-07-19,spread,-19.4
 2021-07-16,spread,8.6
 2021-07-14,spread,8.6
 2021-07-13,spread,9.4
