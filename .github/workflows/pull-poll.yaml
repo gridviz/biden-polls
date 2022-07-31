@@ -29,7 +29,6 @@ jobs:
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
         run: |
           python biden-polls-538.py
-          python biden-polls-rcp.py
           
       - name: commit files
         run: |
