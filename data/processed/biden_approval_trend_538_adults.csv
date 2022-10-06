@@ -1,4 +1,5 @@
 president,subgroup,date,approve,approve_hi,approve_lo,disapprove,disapprove_hi,disapprove_lo,timestamp,spread,datetime,date_display
+Joe Biden,Adults,10-06-22,41.2,45.258675,37.142887,51.3,55.200516,47.397636,09:43:44  6 Oct 2022,-10.1,2022-10-06 09:43:44,Oct. 06
 Joe Biden,Adults,10-05-22,40.22,44.314414,36.121569,52.18,56.130701,48.239222,18:21:44  5 Oct 2022,-11.97,2022-10-05 18:21:44,Oct. 05
 Joe Biden,Adults,10-04-22,39.97,44.079843,35.853872,52.54,56.202407,48.87048,11:44:44  4 Oct 2022,-12.57,2022-10-04 11:44:44,Oct. 04
 Joe Biden,Adults,10-03-22,40.24,44.375067,36.109499,52.53,56.214548,48.852727,10:10:00  3 Oct 2022,-12.29,2022-10-03 10:10:00,Oct. 03
