@@ -1,4 +1,5 @@
 president,subgroup,date,approve,approve_hi,approve_lo,disapprove,disapprove_hi,disapprove_lo,timestamp,spread,datetime,date_display
+Joe Biden,Adults,03-07-23,42.78,46.549843,39.010611,51.26,56.265671,46.262144,15:06:03  7 Mar 2023,-8.48,2023-03-07 15:06:03,Mar. 07
 Joe Biden,Adults,03-06-23,41.99,45.608847,38.373588,52.08,56.135756,48.02856,09:27:03  6 Mar 2023,-10.09,2023-03-06 09:27:03,Mar. 06
 Joe Biden,Adults,03-03-23,41.99,45.61045,38.37486,52.08,56.13575,48.02856,12:05:25  3 Mar 2023,-10.09,2023-03-03 12:05:25,Mar. 03
 Joe Biden,Adults,03-02-23,41.99,45.610451,38.374858,52.08,56.135756,48.028558,14:38:02  2 Mar 2023,-10.09,2023-03-02 14:38:02,Mar. 02
