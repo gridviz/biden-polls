@@ -1,4 +1,5 @@
 president,subgroup,date,approve,approve_hi,approve_lo,disapprove,disapprove_hi,disapprove_lo,timestamp,spread,datetime,date_display
+Joe Biden,Voters,04-04-23,43.67,47.807669,39.535654,52.89,57.156878,48.62092,13:25:21  4 Apr 2023,-9.22,2023-04-04 13:25:21,Apr. 04
 Joe Biden,Voters,04-03-23,43.67,47.807149,39.530815,53.08,57.435909,48.725104,09:38:39  3 Apr 2023,-9.41,2023-04-03 09:38:39,Apr. 03
 Joe Biden,Voters,04-01-23,43.67,47.807149,39.530815,53.08,57.435909,48.725104,15:32:30  1 Apr 2023,-9.41,2023-04-01 15:32:30,Apr. 01
 Joe Biden,Voters,03-31-23,43.67,47.807149,39.530815,53.08,57.435909,48.725104,09:17:23 31 Mar 2023,-9.41,2023-03-31 09:17:23,Mar. 31
