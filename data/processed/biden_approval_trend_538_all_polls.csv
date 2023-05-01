@@ -1,4 +1,5 @@
 president,subgroup,date,approve,approve_hi,approve_lo,disapprove,disapprove_hi,disapprove_lo,timestamp,spread,datetime,date_display
+Joe Biden,All polls,05-01-23,43.02,47.549697,38.494433,52.54,57.29083,47.786814,09:06:28  1 May 2023,-9.52,2023-05-01 09:06:28,May. 01
 Joe Biden,All polls,04-28-23,43.02,47.549696,38.494435,52.54,57.29083,47.786814,16:06:53 28 Apr 2023,-9.52,2023-04-28 16:06:53,Apr. 28
 Joe Biden,All polls,04-27-23,42.59,47.131671,38.057404,52.74,57.442877,48.035448,15:27:53 27 Apr 2023,-10.14,2023-04-27 15:27:53,Apr. 27
 Joe Biden,All polls,04-26-23,42.62,47.035856,38.19495,53.28,57.808251,48.756624,19:35:53 26 Apr 2023,-10.67,2023-04-26 19:35:53,Apr. 26
